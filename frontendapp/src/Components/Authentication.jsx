@@ -376,7 +376,7 @@ const Authentication = () => {
     }
     const lowercasedEmail = loginemail.toLowerCase();
     try {
-      const response = await fetch(`http://localhost:3000/user?email=${lowercasedEmail}&password=${loginpassword}`, {
+      const response = await fetch(`https://jsonsnabbtech.onrender.com/user?email=${lowercasedEmail}&password=${loginpassword}`, {
         method: 'GET',
         headers: {
           'Content-Type': 'application/json',
