@@ -80,7 +80,7 @@
       
 💫Frontend (React.js)
 
-    The front end is a React.js application with simple Components:- for signup and login, UrlShortner.
+  This frontend project focuses on building a user authentication system with signup, login, forget password, and password reset functionalities. Additionally, a well-designed homepage with a responsive UI, navbar, and footer is implemented. The project is structured to include routes such as /home for the homepage and / for the authentication pages.
          
 ---
          
@@ -107,27 +107,42 @@ Open your terminal and navigate to the frontend directory.
 Run the command npm start to launch the application locally.
 Access the application through your web browser at http://localhost:3000.
 
-✨ Home Page
-
-Upon launching the application, the home page welcomes users with essential options for interaction:
-
-Signup: Allows new users to create an account.
-Login: Provides access for existing users.
-
 ✨ User Journey:-
 
-💫 Signup
+🧑‍🏫 Authentication Pages
 
-Click on the "Signup" option on the home page.
-Fill in the required information in the signup form.
-Submit the form to create a new account.
+-- Signup
+The signup page allows users to create a new account. It collects necessary information such as username, email, and password.
 
-💫 Login
+-- Login
+The login page enables users to log in using their credentials, providing a seamless authentication process.
 
-Choose the "Login" option on the home page.
-Enter your credentials in the login form.
-Submit the form to access your personalized experience.
+-- Forget Password
+If users forget their password, the forget password page allows them to reset their password by providing their email address.
 
+-- Reset Password
+Users receive a password reset link via email and can use it to set a new password.
+
+💫 Homepage
+The homepage is designed to welcome users. It includes an intuitive UI with a navbar for navigation and a footer for additional information.
+
+-- Navbar
+The navbar provides easy navigation, including a link to the homepage (/home) and authentication pages (/).
+
+-- Footer
+The footer contains important links, contact information, or any other relevant details.
+
+-- Responsive Design
+The project prioritizes a responsive design, ensuring optimal user experience across various devices and screen sizes.
+
+# Routing
+ CLICK on WELCOME TO PANDA to Visit the homepage:-
+     /home: Displays the homepage.
+     /: Redirects to authentication pages.
+
+# Usage
+
+    Modify and customize the components, styles, and content to suit your project requirements. Update API endpoints and integrate with backend services as needed.
 ---    
 
 ✨Hosting on Vercel
