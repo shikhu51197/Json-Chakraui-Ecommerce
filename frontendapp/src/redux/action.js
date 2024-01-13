@@ -55,7 +55,7 @@ export const signupfunc = ({
 }) => (dispatch) => {
   dispatch(get_singup_request());
   axios
-    .post("http://localhost:3000/user", {
+    .post("https://jsonsnabbtech.onrender.com/user", {
         email: email,
       password: password,
     })
