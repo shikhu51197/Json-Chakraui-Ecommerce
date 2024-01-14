@@ -114,25 +114,49 @@ Access the application through your web browser at http://localhost:3000.
 -- Signup
 The signup page allows users to create a new account. It collects necessary information such as username, email, and password.
 
+![Screenshot (1896)](https://github.com/shikhu51197/Snabtech-Ecommerce/assets/107506646/c9079a4f-5209-4948-89bf-b68ed03e493d)
+
+
 -- Login
 The login page enables users to log in using their credentials, providing a seamless authentication process.
+
+![Screenshot (1897)](https://github.com/shikhu51197/Snabtech-Ecommerce/assets/107506646/daea155c-717c-47b5-a81f-5f4d1f80cebd)
 
 -- Forget Password
 If users forget their password, the forget password page allows them to reset their password by providing their email address.
 
+![Screenshot (1898)](https://github.com/shikhu51197/Snabtech-Ecommerce/assets/107506646/44fc5ad2-33b7-4a5e-b1cd-38498a45fe6f)
+![Screenshot (1899)](https://github.com/shikhu51197/Snabtech-Ecommerce/assets/107506646/9a03da69-f0cb-406f-ada7-f7b97204e169)
+
 -- Reset Password
 Users receive a password reset link via email and can use it to set a new password.
+
+![Screenshot (1900)](https://github.com/shikhu51197/Snabtech-Ecommerce/assets/107506646/bdf12cf8-f7de-49bd-ab61-601409a398d3)
+![Screenshot (1901)](https://github.com/shikhu51197/Snabtech-Ecommerce/assets/107506646/f8286007-38a3-4771-85f0-9db615ea67e8)
 
 💫 Homepage
 The homepage is designed to welcome users. It includes an intuitive UI with a navbar for navigation and a footer for additional information.
 
+![Screenshot (1903)](https://github.com/shikhu51197/Snabtech-Ecommerce/assets/107506646/f550d26e-8b0f-44f0-952e-d9915d2db8e1)
+![Screenshot (1904)](https://github.com/shikhu51197/Snabtech-Ecommerce/assets/107506646/b18bc1c7-9fc3-4a2e-9790-05493547e171)
+![Screenshot (1906)](https://github.com/shikhu51197/Snabtech-Ecommerce/assets/107506646/645904b5-7d65-43b5-8cec-1d0988d67cc8)
+![Screenshot (1905)](https://github.com/shikhu51197/Snabtech-Ecommerce/assets/107506646/03afdebd-3a90-4499-9610-4109c57bc67d)
+![Screenshot (1907)](https://github.com/shikhu51197/Snabtech-Ecommerce/assets/107506646/daea4da5-d09f-4a7d-b24e-2de6c4f004c8)
+
 -- Navbar
+
+
 The navbar provides easy navigation, including a link to the homepage (/home) and authentication pages (/).
+
+![Screenshot (1902)](https://github.com/shikhu51197/Snabtech-Ecommerce/assets/107506646/d52b0eb9-a01f-42e3-ac9e-2eb7e30d333f)
 
 -- Footer
 The footer contains important links, contact information, or any other relevant details.
 
+![Screenshot (1908)](https://github.com/shikhu51197/Snabtech-Ecommerce/assets/107506646/f51bb243-9fd6-4d78-9787-e900c41cf4cf)
+
 -- Responsive Design
+
 The project prioritizes a responsive design, ensuring optimal user experience across various devices and screen sizes.
 
 # Routing
